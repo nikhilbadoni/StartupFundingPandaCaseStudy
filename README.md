@@ -1,2 +1,2 @@
-## Panda Case Study 
+## Pandas Case Study 
 ### Indian Startup Funding Analysis
